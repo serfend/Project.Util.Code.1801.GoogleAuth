@@ -1,0 +1,6 @@
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\bin\Release\TestDll.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\bin\Release\TestDll.pdb
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\obj\Release\TestDll.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\obj\Release\TestDll.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\obj\Release\TestDll.pdb
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\obj\Release\TestDll.csprojResolveAssemblyReference.cache

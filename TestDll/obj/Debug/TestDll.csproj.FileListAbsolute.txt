@@ -1,0 +1,5 @@
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\bin\Debug\TestDll.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\bin\Debug\TestDll.pdb
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\obj\Debug\TestDll.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\obj\Debug\TestDll.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\TestDll\obj\Debug\TestDll.pdb

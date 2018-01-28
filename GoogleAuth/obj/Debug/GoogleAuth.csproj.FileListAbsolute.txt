@@ -1,0 +1,6 @@
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\bin\Debug\GoogleAuth.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\bin\Debug\GoogleAuth.pdb
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\bin\Debug\GoogleAuth.tlb
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\obj\Debug\GoogleAuth.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\obj\Debug\GoogleAuth.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\obj\Debug\GoogleAuth.pdb

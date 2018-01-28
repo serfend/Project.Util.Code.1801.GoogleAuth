@@ -1,0 +1,6 @@
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\bin\x86\Release\GoogleAuth.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\bin\x86\Release\GoogleAuth.pdb
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\obj\x86\Release\GoogleAuth.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\obj\x86\Release\GoogleAuth.dll
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\obj\x86\Release\GoogleAuth.pdb
+D:\aserfend\workSpace\repos\projects\GoogleAuth\GoogleAuth\obj\x86\Release\GoogleAuth.csprojResolveAssemblyReference.cache
